@@ -17,7 +17,7 @@ body {
 	font-weight: 300;
 	text-align: left;
 	color: #281a1a;
-	display: block;
+
 
 }
 
@@ -76,6 +76,7 @@ a {
 .thumb {
 	border-radius: 10px;
 	box-shadow: 2px 2px 5px 0;
+	width: 300px;
 }
 
 /* typing js */
@@ -121,4 +122,32 @@ h3 {
 	
 	display: block;
 	
+}
+
+.porttop {
+	margin-bottom: 20px;
+}
+
+.dome {
+	margin-bottom: 20px;
+}
+
+a.hero {
+	color: #2b1a1a;
+	text-decoration: none;
+}
+
+a.hero:visited {
+	color: #2b1a1a;
+	text-decoration: none;
+}
+
+a.hero:hover {
+	color: #2b1a1a;
+	text-decoration: none;
+}
+
+a.hero:active {
+	color: #2b1a1a;
+	text-decoration: none;
 }
